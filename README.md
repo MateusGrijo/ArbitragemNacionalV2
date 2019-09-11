@@ -2,7 +2,7 @@
 
 Arbitragem posicionada em HFT(Alta frequência) entre Braziliex e Bitrecife.
 
-Link para download: https://github.com/Matheus-Grijo/ArbitragemNacionalV2/blob/master/bin/Debug.zip
+Link para download: https://github.com/Matheus-Grijo/ArbitragemNacionalV2/raw/master/bin/Debug.zip
 
 Tutorial: https://youtu.be/R7EiQo4sD7s
 
