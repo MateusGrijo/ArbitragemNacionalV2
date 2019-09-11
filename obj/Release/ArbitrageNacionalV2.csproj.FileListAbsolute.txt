@@ -1,0 +1,13 @@
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\obj\Release\ArbitrageNacionalV2.csprojAssemblyReference.cache
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\obj\Release\ArbitrageNacionalV2.csproj.CoreCompileInputs.cache
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\ArbitrageNacionalV2.exe.config
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\ArbitrageNacionalV2.exe
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\MySql.Data.dll
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\Newtonsoft.Json.dll
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\Google.Protobuf.dll
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\Renci.SshNet.dll
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\BouncyCastle.Crypto.dll
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\MySql.Data.xml
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\bin\Release\Newtonsoft.Json.xml
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\obj\Release\ArbitrageNacionalV2.csproj.CopyComplete
+D:\Work\P1-MG-ANUBIS\ArbitragemNacionalV2\ArbitragemNacionalV2-master\ArbitragemNacionalV2-master\obj\Release\ArbitrageNacionalV2.exe
